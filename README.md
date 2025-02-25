@@ -1,2 +1,2 @@
-# AI
+# Evolving Game AI: Space Invaders Controller Using Feed-Forward Neural Networks
 In my first project involving Artificial Intelligence, I developed a Java-based solution to control the classic arcade game *Space Invaders* using a feed-forward neural network. The primary objective was to evolve the network's performance through a genetic algorithm. The project involved designing a neural network architecture, optimizing its weights with evolutionary techniques like selection, mutation, and crossover, and improving the AI's gameplay performance over several generations. This hands-on experience introduced me to machine learning techniques and gave me a solid foundation in AI and neural networks.
